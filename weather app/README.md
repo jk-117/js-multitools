@@ -6,7 +6,7 @@ A simple, elegant weather app built using HTML, CSS, and JavaScript that fetches
 
 ## 🖼️ Screenshot
 
-![Weather App Screenshot](weather%20app/images/screenshot.png)
+![Weather App Screenshot](./images/screenshot.png)
 
 ---
 
