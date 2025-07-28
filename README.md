@@ -34,7 +34,6 @@ A simple weather-checking application that:
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-- **Browser Local Storage**
 - **Optional API Integration** (for weather data)
 
 ---
