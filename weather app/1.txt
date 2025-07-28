@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=hyderabad&appid=19b98fc0349703c64c92773efe6a53b6&units=metric
