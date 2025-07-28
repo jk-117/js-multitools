@@ -40,7 +40,7 @@ A simple weather-checking application that:
 
 ## 🔧 How to Run
 
-You can open any of the projects directly in your browser:
+You can open any of the projects directly in your browser after cloning:
 
 ```bash
 # Navigate to project folder
